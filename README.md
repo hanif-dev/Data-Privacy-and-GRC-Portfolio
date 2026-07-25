@@ -28,6 +28,3 @@ Here are the key projects included in this repository. Click on the PDF files in
 - **Regulatory Frameworks:** GDPR, CCPA, HIPAA, HITECH Act, FTC Guidelines.
 - **Privacy Principles:** Privacy by Design/Default, Data Minimisation, Purpose Limitation, Consent Management, Pseudonymisation.
 - **Analytical Skills:** Legal text interpretation, cross-border regulatory mapping, privacy engineering assessment, and ethical data governance.
-
----
-*This portfolio is continuously updated as I expand my expertise into Cyber Threat Intelligence (CTI), OSINT, and Digital Forensics.*
